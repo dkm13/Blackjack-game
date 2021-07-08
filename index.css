@@ -31,16 +31,18 @@ button{
     font-size: 25px;
     cursor: pointer;
 }
-@media screen and (max-width: 650px)  {
-body{
-   height: 1000px;
-}
-
-}
-
 @media screen and (max-width: 450px)  {
 body{
-   height: 1250px;
+   height: 1450px;
 }
 
 }
+
+@media screen and (max-width: 650px)  {
+body{
+   height: 1200px;
+}
+
+}
+
+
