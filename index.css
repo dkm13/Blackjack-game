@@ -5,6 +5,8 @@ body{
     text-align: center;
     color: white;
     font-weight: bold;
+     background-repeat: no-repeat;
+
 }
 h1{
     color: goldenrod;
